@@ -1,7 +1,3 @@
-import uvloop
-
-uvloop.install()
-
 import logging
 import os
 import re
